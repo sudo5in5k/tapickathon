@@ -8,6 +8,6 @@ package com.example.sho.myportalapp.googleNewsApi
 class TabNameSources {
 
     companion object {
-        val tabNameList = mutableListOf("タピオカ", "ゴンチャ", "ジアレイ")
+        val tabNameList = mutableListOf("タピオカ", "ゴンチャ", "ジアレイ", "タピ活")
     }
 }
