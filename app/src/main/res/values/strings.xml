@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">ニュース一覧</string>
+    <string name="app_name">Tapickathon News App</string>
     <string name="news_title">サンプルニュース</string>
 
     <string name="weather_sunny" translatable="false">&#xf00d;</string>
